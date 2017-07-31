@@ -1,0 +1,19 @@
+{
+    "name": "cinam/number-ranger",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^6.2"
+    },
+    "authors": [
+        {
+            "name": "cinam",
+            "email": "cinam@hotmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Cinam\\NumberRanger\\": "src/"
+        }
+    },
+    "require": {}
+}
